@@ -1,0 +1,40 @@
+#head {
+  height: 50px;
+  width: 50px;
+  position: absolute;
+}
+
+#board {
+  background-image: url('assets/Arena Background.png');
+  height: 700px;
+  width: 700px;
+  border: 1px black solid;
+  position: initial;
+}
+#score {
+  background-color: black;
+  color: white;
+  font-weight: 900;
+  border: 1px black solid;
+  position: absolute;
+  width: 700px;
+  text-align: center;
+  font-size: 40px;
+}
+
+#body {
+  height: 50px;
+  width: 50px;
+  position: absolute;
+
+}
+body{
+  background-color: darkslategray;
+}
+
+
+#apple {
+  height: 50px;
+  width: 50px;
+  position: absolute;
+}
