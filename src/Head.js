@@ -23,7 +23,7 @@ transform(count){
     this.SPEED -= 25;
   }
   else if (count == 13){
-    this.node.attr('src', 'src/assets/SSJ3 Goku.png');
+    this.node.attr('src', 'src/assets/SSj3 Goku.png');
     this.SPEED -= 25;
   }
 }
